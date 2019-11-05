@@ -28,6 +28,7 @@ public class VideoPlay1 : MonoBehaviour
         switch (sceneName) { 
 
           case "Cinematica1":
+                 videoInicial.url = Path.Combine(Application.streamingAssetsPath, "cinematica_intro.mp4");
 break; 
 
             case "Cinematica2":
