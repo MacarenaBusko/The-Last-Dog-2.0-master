@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Piston.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Sapo_Controller2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Llegar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameControl.cs" Line="35" Column="24" />
+      <File FileName="Assets/Scripts/Sapo_Controller.cs" Line="30" Column="32" />
+      <File FileName="Assets/Scripts/Personajes/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Personajes/PlayerAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Personajes/barravida.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/barravidaboss.cs" Line="22" Column="24" />
+      <File FileName="Assets/Scripts/Piston.cs" Line="17" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
